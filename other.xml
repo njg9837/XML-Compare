@@ -19,4 +19,16 @@
       </map>
     </option>
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/njg9837/XML-Compare" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/njg9837/XML-Compare" />
+      </list>
+    </option>
+  </component>
 </application>
